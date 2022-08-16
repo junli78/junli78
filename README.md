@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junli78
 - 👀 I’m interested in JAVA, ASP.NET CORE, Python and Cloud Compute.
-- 🌱 I’m currently learning Cloud techenology.
+- 🌱 I’m currently learning Cloud technology.
 - 💞️ I’m looking to collaborate on Azure or AWS.
 - 📫 How to reach me ...
 
